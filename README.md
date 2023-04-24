@@ -4,7 +4,7 @@
 
 **Python:** Used basic python coding to transform the dataset file that I got to a database file that I can use in SQL.
 
-**SQLite:** Cleaning up data. Struggled with JSON data columns but figured out a way to make it work.
+**SQLite:** Cleaning up data.
 
 **Tableau:** Dashboard creation
 
